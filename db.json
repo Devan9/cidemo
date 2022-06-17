@@ -9,7 +9,7 @@
         {"name":"Ci7","value":"7.007", "status":"Yellow"},
         {"name":"Ci8","value":"8.008", "status":"Green"},
         {"name":"Ci9","value":"9.009", "status":"Red"},
-        {"name":"Ci10","value":"10.001", "status":"Red"}
+        {"name":"Ci10","value":"10.101", "status":"Red"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
