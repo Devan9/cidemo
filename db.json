@@ -1,14 +1,15 @@
 {
   "posts": [
-    {"ciname":"Ci1","civalue":"1.001", "cistatus":"Red"},
-    {"ciname":"Ci2","civalue":"2.002", "cistatus":"Green"},
-    {"ciname":"Ci3","civalue":"3.003", "cistatus":"Yellow"}, 
-    {"ciname":"Ci4","civalue":"4.004", "cistatus":"Red"},
-    {"ciname":"Ci5","civalue":"5.005", "cistatus":"Green"},
-    {"ciname":"Ci6","civalue":"6.006", "cistatus":"Red"},
-    {"ciname":"Ci7","civalue":"7.007", "cistatus":"Yellow"},
-    {"ciname":"Ci8","civalue":"8.008", "cistatus":"Green"},
-    {"ciname":"Ci9","civalue":"9.009", "cistatus":"Red"}
+        {"name":"Ci1","value":"1.001", "status":"Red"},
+        {"name":"Ci2","value":"2.002", "status":"Green"},
+        {"name":"Ci3","value":"3.003", "status":"Yellow"},
+        {"name":"Ci4","value":"4.004", "status":"Red"},
+        {"name":"Ci5","value":"5.005", "status":"Green"},
+        {"name":"Ci6","value":"6.006", "status":"Red"},
+        {"name":"Ci7","value":"7.007", "status":"Yellow"},
+        {"name":"Ci8","value":"8.008", "status":"Green"},
+        {"name":"Ci9","value":"9.009", "status":"Red"},
+        {"name":"Ci10","value":"10.010", "status":"Red"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
