@@ -1,8 +1,14 @@
 {
   "posts": [
-    { "id": 1, "title": "Post ci1" },
-    { "id": 2, "title": "Post ci2" },
-    { "id": 3, "title": "Post ci3" }
+    {"ciname":"Ci1","civalue":"1.001", "cistatus":"Red"},
+    {"ciname":"Ci2","civalue":"2.002", "cistatus":"Green"},
+    {"ciname":"Ci3","civalue":"3.003", "cistatus":"Yellow"}, 
+    {"ciname":"Ci4","civalue":"4.004", "cistatus":"Red"},
+    {"ciname":"Ci5","civalue":"5.005", "cistatus":"Green"},
+    {"ciname":"Ci6","civalue":"6.006", "cistatus":"Red"},
+    {"ciname":"Ci7","civalue":"7.007", "cistatus":"Yellow"},
+    {"ciname":"Ci8","civalue":"8.008", "cistatus":"Green"},
+    {"ciname":"Ci9","civalue":"9.009", "cistatus":"Red"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
