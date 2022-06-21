@@ -6,9 +6,6 @@
         {"name":"64D-IG-21","value":"11.29", "status":"Yellow"},
         {"name":"64D-MR-36","value":"5.76", "status":"Yellow"},
         {"name":"64D-IG-12","value":"15.05", "status":"Red"},
-        {"name":"64D-AP-13","value":"7.19", "status":"Red"},       
-        {"name":"64D-IG-25","value":"12.58", "status":"Red"},      
-        {"name":"64D-MR-12","value":"10.80", "status":"Yellow"},
         {"name":"64D-DS-6","value":"8.20", "status":"Red"},
         {"name":"64D-DS-6","value":"8.36", "status":"Red"}
   ],
