@@ -1,5 +1,6 @@
 {
   "posts": [
+    {"name":"RECON64D-ADG","value":"25.89","status":"Red"},
         {"name":"64D-DS-8","value":"19.07","status":"Yellow"},
         {"name":"64D-TR-20","value":"4.04", "status":"Red"},
         {"name":"64D-IG-21","value":"11.29", "status":"Yellow"},
