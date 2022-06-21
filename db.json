@@ -1,6 +1,5 @@
 {
   "posts": [
-    {"name":"64D-DS-8","value":"19.07","status":"Red"},
         {"name":"Ci1","value":"1.001", "status":"Red"},
         {"name":"Ci2","value":"2.002", "status":"Red"},
         {"name":"Ci3","value":"3.003", "status":"Yellow"},
