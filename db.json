@@ -1,15 +1,15 @@
 {
   "posts": [
-    {"name":"64D-DS-8","value":"19.07","status":"Red"},
-        {"name":"Ci1","value":"1.001", "status":"Red"},
-        {"name":"Ci2","value":"2.002", "status":"Red"},
-        {"name":"Ci3","value":"3.003", "status":"Yellow"},
-        {"name":"Ci4","value":"4.004", "status":"Red"},
-        {"name":"Ci5","value":"5.005", "status":"Yellow"},
-        {"name":"Ci6","value":"6.006", "status":"Red"},
-        {"name":"Ci7","value":"7.777", "status":"Yellow"},
-        {"name":"Ci8","value":"8.008", "status":"Yellow"},
-        {"name":"Ci9","value":"9.009", "status":"Red"}
+        {"name":"64D-DS-8","value":"19.07","status":"Yellow"},
+        {"name":"64D-TR-20","value":"4.04", "status":"Red"},
+        {"name":"64D-IG-21","value":"11.29", "status":"Yellow"},
+        {"name":"64D-MR-36","value":"5.76", "status":"Yellow"},
+        {"name":"64D-IG-12","value":"15.05", "status":"Red"},
+        {"name":"64D-AP-13","value":"7.19", "status":"Red"},       
+        {"name":"64D-IG-25","value":"12.58", "status":"Red"},      
+        {"name":"64D-MR-12","value":"10.80", "status":"Yellow"},
+        {"name":"64D-DS-6","value":"8.20", "status":"Red"},
+        {"name":"64D-DS-6","value":"8.36", "status":"Red"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
