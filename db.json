@@ -4,7 +4,7 @@
         {"name":"Ci2","value":"2.002", "status":"Red"},
         {"name":"Ci3","value":"3.003", "status":"Yellow"},
         {"name":"Ci4","value":"4.004", "status":"Red"},
-        {"name":"Ci5","value":"5.005", "status":"Red"},
+        {"name":"Ci5","value":"5.005", "status":"Yellow"},
         {"name":"Ci6","value":"6.006", "status":"Red"},
         {"name":"Ci7","value":"7.777", "status":"Yellow"},
         {"name":"Ci8","value":"8.008", "status":"Yellow"},
